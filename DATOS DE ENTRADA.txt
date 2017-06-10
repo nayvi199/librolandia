@@ -1,0 +1,19 @@
+admin
+nai199
+123456
+
+
+---
+user
+nay199
+12345678 o zxcvbn o 123456
+
+user
+yayo
+123456
+
+--
+
+al subir fotos debem estar en la carpeta public/storage/
+
+Meterle inventario a los productos antes de intentar comprar.
